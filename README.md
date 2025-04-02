@@ -1,7 +1,7 @@
-# 👨‍💻 Umut | Angehender Fachinformatiker
+# 👨‍💻 Umut | Angehender Fachinformatiker Anwendungsentwicklung
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello+World!;Fachinformatiker+in+Ausbildung;Leidenschaftlicher+Entwickler;Python+und+C%23+Enthusiast;Immer+am+Lernen+und+Wachsen" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello+World!;Willkommen+auf+meinem+Profil;Coding+%26+Learning;Python+und+C%23+Enthusiast;Immer+am+Lernen+und+Wachsen" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,14 +19,71 @@ Ich bin aktuell in einer Umschulung zum **Fachinformatiker für Anwendungsentwic
 - 👯 Ich suche nach Möglichkeiten, an Open-Source-Projekten mitzuwirken
 - 🥅 Ziel 2025: Meine Programmierfähigkeiten vertiefen und ein größeres Projekt umsetzen
 
-## 🧠 Skills
+## 📚 Aktueller Lernfortschritt
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-▓▓▓▓▓▓░░░░-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-▓▓▓░░░░░░-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br>
-  <img src="https://img.shields.io/badge/C%23-▓▓░░░░░░░-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <table>
+    <tr>
+      <th>Thema</th>
+      <th>Fortschritt</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>C# Grundlagen</td>
+      <td><img src="https://progress-bar.dev/45?title=&width=100&color=3498db" /></td>
+      <td>🟡 In Bearbeitung</td>
+    </tr>
+    <tr>
+      <td>JavaScript Basics</td>
+      <td><img src="https://progress-bar.dev/30?title=&width=100&color=3498db" /></td>
+      <td>🟡 In Bearbeitung</td>
+    </tr>
+    <tr>
+      <td>Python Grundkurs</td>
+      <td><img src="https://progress-bar.dev/85?title=&width=100&color=27ae60" /></td>
+      <td>🟢 Fast abgeschlossen</td>
+    </tr>
+    <tr>
+      <td>HTML & CSS</td>
+      <td><img src="https://progress-bar.dev/65?title=&width=100&color=27ae60" /></td>
+      <td>🟡 In Bearbeitung</td>
+    </tr>
+  </table>
+</div>
+
+## 🧠 Fähigkeiten
+
+### 💻 Technische Skills
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+      <td>
+        <img src="https://progress-bar.dev/60?title=Kenntnisse&width=120" />
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+      <td>
+        <img src="https://progress-bar.dev/30?title=Kenntnisse&width=120" />
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></td>
+      <td>
+        <img src="https://progress-bar.dev/20?title=Kenntnisse&width=120" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🤝 Soft Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Teamarbeit-★★★★☆-blue?style=for-the-badge" alt="Teamarbeit" />
+  <img src="https://img.shields.io/badge/Problemlösung-★★★★★-blue?style=for-the-badge" alt="Problemlösung" />
+  <img src="https://img.shields.io/badge/Kommunikation-★★★★☆-blue?style=for-the-badge" alt="Kommunikation" />
+  <img src="https://img.shields.io/badge/Selbstorganisation-★★★★★-blue?style=for-the-badge" alt="Selbstorganisation" />
+  <img src="https://img.shields.io/badge/Kreativität-★★★★☆-blue?style=for-the-badge" alt="Kreativität" />
 </div>
 
 ## 💻 Meine Technologien und Tools
@@ -81,21 +138,37 @@ Ich bin aktuell in einer Umschulung zum **Fachinformatiker für Anwendungsentwic
 
 ## 📌 Meine wichtigsten Projekte
 
-<div>
-  <h3>
-    <a href="https://github.com/55Umut/Projekt-Audio">Projekt-Audio</a>
-  </h3>
-  <p>Audio-Ausgabe mit PCM5100A-Modul und Raspberry Pi Pico W - Entwickelt mit Python und MicroPython.</p>
+<div align="center">
+  <a href="https://github.com/55Umut/Projekt-Audio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=55Umut&repo=Projekt-Audio&theme=github_dark" alt="Projekt-Audio" />
+  </a>
+  <a href="https://github.com/55Umut/CBM-Projekt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=55Umut&repo=CBM-Projekt&theme=github_dark" alt="CBM-Projekt" />
+  </a>
+  <a href="https://github.com/55Umut/PythonLernen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=55Umut&repo=PythonLernen&theme=github_dark" alt="PythonLernen" />
+  </a>
+</div>
 
-  <h3>
-    <a href="https://github.com/55Umut/CBM-Projekt">CBM-Projekt</a>
-  </h3>
-  <p>Lern- und Übungsprojekte mit PHP, HTML und CSS zur Erweiterung meiner Webentwicklungs-Kenntnisse.</p>
+## 🔍 Aktueller Fokus
 
-  <h3>
-    <a href="https://github.com/55Umut/PythonLernen">PythonLernen</a>
-  </h3>
-  <p>Dokumentation meiner Python-Lernreise von den Grundlagen.</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C%23-Learning-brightgreen?style=for-the-badge&logo=c-sharp" alt="C# Learning" /><br>
+        <sup>Aktuelle Priorität: Hoch</sup>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-Exploring-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Exploring" /><br>
+        <sup>Aktuelle Priorität: Mittel</sup>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Web%20Development-Planning-blue?style=for-the-badge&logo=html5" alt="Web Development Planning" /><br>
+        <sup>Aktuelle Priorität: Niedrig</sup>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📫 Kontakt
@@ -112,4 +185,7 @@ Ich bin aktuell in einer Umschulung zum **Fachinformatiker für Anwendungsentwic
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=55Umut&color=blue" alt="Profile Views" />
+  <br><br>
+  <b>Danke fürs Vorbeischauen! 👋</b><br>
+  <i>Folge mir gerne, um über meine neuesten Projekte auf dem Laufenden zu bleiben.</i>
 </div>
