@@ -1,7 +1,7 @@
 # 👨‍💻 Umut | Angehender Fachinformatiker
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Willkommen+auf+meinem+GitHub-Profil!;Fachinformatiker+in+Ausbildung;Leidenschaftlicher+Entwickler;Immer+am+Lernen+und+Wachsen" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello+World!;Fachinformatiker+in+Ausbildung;Leidenschaftlicher+Entwickler;Python+und+C%23+Enthusiast;Immer+am+Lernen+und+Wachsen" alt="Typing SVG" />
 </div>
 
 <div align="center">
