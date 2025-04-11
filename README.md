@@ -12,7 +12,7 @@
 
 ## 🚀 Über mich
 
-Ich befinde mich in einer **Umschulung zum Fachinformatiker für Anwendungsentwicklung** und liebe es, durch praktische Projekte Neues zu lernen. Mein Fokus liegt aktuell auf dem **Verständnis von C#**, **Python** und **JavaScript** – mit dem Ziel, ein solides Fundament aufzubauen.
+Ich befinde mich in einer **Umschulung zum Fachinformatiker Anwendungsentwicklung** und liebe es, durch praktische Projekte Neues zu lernen. Mein Fokus liegt aktuell auf dem **Verständnis von C#**, **Python** und **JavaScript** – mit dem Ziel, ein solides Fundament aufzubauen.
 
 - 🔭 Arbeite derzeit an den Grundlagen von C#
 - 🌱 Lerne aktiv JavaScript & Webentwicklung
